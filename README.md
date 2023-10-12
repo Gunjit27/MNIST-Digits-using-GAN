@@ -22,7 +22,7 @@ To get started with the project, follow these steps:
 
 1. Clone this repository to your local machine.
 
-2. Install the necessary prerequisites, including Python 3.x, TensorFlow, NumPy, Matplotlib, and ImageIO. You can find detailed installation instructions in the [Installation Guide](docs/installation_guide.md).
+2. Install the necessary prerequisites, including Python 3.x, TensorFlow, NumPy, Matplotlib, and ImageIO.
 
 3. Load and preprocess the MNIST dataset.
 
